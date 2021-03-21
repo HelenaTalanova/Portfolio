@@ -1,0 +1,29 @@
+﻿<Window x:Class="Barley_Break.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Barley_Break"
+        mc:Ignorable="d"
+        Title="Пятнашки" Height="580" Width="515" ResizeMode="NoResize">
+    <Grid>
+        <Canvas Background="Gray" x:Name="Arena" Margin="0,0,0,40"/>
+        <DockPanel VerticalAlignment="Bottom">
+            <ComboBox x:Name="SIZE"
+                      Height="30"
+                      Width="250"
+                      Margin="5"
+                      VerticalAlignment="Bottom"
+                      HorizontalAlignment="Left"
+                      FontSize="15"/>
+            <Label x:Name="StepCount"
+                   FontSize="15"/>
+            <Button x:Name="MIX" Content="Старт"
+                    Height="30"
+                    Width="100"
+                    Margin="5"
+                    VerticalAlignment="Bottom"
+                    HorizontalAlignment="Right"/>
+        </DockPanel>
+    </Grid>
+</Window>
