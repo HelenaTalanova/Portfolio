@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometryFigureOOP", "Geomet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barley-Break", "Barley-Break\Barley-Break.csproj", "{B52150EB-B607-425A-AEB0-C78FCE5A9A38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather\Weather.csproj", "{E5D92418-9354-4DE2-95FD-68CCE655AA26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B52150EB-B607-425A-AEB0-C78FCE5A9A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B52150EB-B607-425A-AEB0-C78FCE5A9A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B52150EB-B607-425A-AEB0-C78FCE5A9A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D92418-9354-4DE2-95FD-68CCE655AA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D92418-9354-4DE2-95FD-68CCE655AA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D92418-9354-4DE2-95FD-68CCE655AA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D92418-9354-4DE2-95FD-68CCE655AA26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
