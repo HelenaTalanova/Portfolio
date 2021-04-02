@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barley-Break", "Barley-Brea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather\Weather.csproj", "{E5D92418-9354-4DE2-95FD-68CCE655AA26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingLinesOfCode", "CountingLinesOfCode\CountingLinesOfCode.csproj", "{344F9BB9-1EF8-4736-AE32-3170261FFCFA}"
+EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{4D800329-5905-45D9-B3B0-DE5751AB99FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM", "Libraries\MVVM\MVVM.csproj", "{80BBD036-1CB6-4844-ABD6-B345DC4B3B26}"
